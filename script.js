@@ -23,5 +23,5 @@ document.getElementById("back").onclick
 // ///////////////
 document.getElementById("booktrip").onclick
 =function(){
-    window.location.href = "index.html"
+    window.location.href = "form.html"
 }
